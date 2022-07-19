@@ -421,4 +421,36 @@ header {
 .social-list__link {
     padding: .5em;
 }
+
+#froogal-flyers {
+    background-image: url(./images/plane-aircraft-the-dome-of-the-sky-flight.jpeg);
+    background-position: left;
+    width: 60%;
+    height: 100px;
+}
+
+.froogal {
+    box-shadow: var(--bs);
+}
+
+#Node-Project {
+    background-image: url(./images/logo-hexagon-card.png);
+    background-position: center;
+    width: 20%;
+    height: 200px;
+    box-shadow: var(--bs);
+    margin: center;
+    margin-top: 30px;
+}
+
+#Pass-Stache {
+    background-image: url(./images/Screen\ Shot\ 2022-07-19\ at\ 11.35.23\ AM.png);
+    background-position: center;
+    width: 60%;
+    height: 200px;
+    margin-top: 30px;
+    box-shadow: var(--bs);
+}
+
+
 }
