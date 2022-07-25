@@ -352,6 +352,10 @@ header {
 
 }
 
+.froogal {
+    color: var(--clr-light);
+}
+
 .section__subtitle--work {
     color: var(--clr-accent);
     font-weight: var(--fw-bold);
@@ -395,6 +399,9 @@ header {
 
 .footer__link {
     font-weight: var(--fw-bold);
+}
+.footer__link {
+    margin: auto;
 }
 
 .footer__link:hover,
