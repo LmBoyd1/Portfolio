@@ -8,4 +8,4 @@ navToggle.addEventListener('click', () => {
 
 navlinks.forEach ('link', () => {
     document.body.classList.remove('.nav-open');
-}
+});
